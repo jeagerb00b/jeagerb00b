@@ -63,26 +63,15 @@ root@github:~$ cat current_mission.log
 ```
 
 ```
->> Building an autonomous UGV with obstacle avoidance
->> Designing 6-state state machine logic in ROS 2 + Gazebo
->> Sector-based LiDAR perception system
->> Internship @ Onepool Pvt Ltd [ACTIVE]
+>> to learn more about ros and increase my skill.
+>> design my own robot
+>> Become with AI for robotics
+>> Build real and working systems
 ```
 
 ---
 
 ```
-root@github:~$ cat interests.txt
-```
-
-| SYSTEM        | STATUS   | DESCRIPTION                        |
-|---------------|----------|------------------------------------|
-| Robotics      | ONLINE ✓ | Autonomous systems & UGV design    |
-| Control Sys   | ONLINE ✓ | State machines & navigation logic  |
-| CAD/Sim       | ONLINE ✓ | SolidWorks, Fusion, ANSYS          |
-| Motion Design | ONLINE ✓ | After Effects & visual storytelling|
-
----
 
 <div align="center">
 
