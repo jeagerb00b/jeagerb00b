@@ -1,16 +1,93 @@
-## Hi there 👋
+```
+ ___________
+|  _______  |
+| |  o o  | |
+| |  ___  | |
+| |_______| |
+|___________|
+   |  [=]  |
+  _|_______|_
+ | |       | |
+ |_|       |_|
+   ||     ||
+  [==]   [==]
+```
 
-<!--
-**jeagerb00b/jeagerb00b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# `SARFARAS YOONAS`
+### > Robotics Engineer `_`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/sarfaras-yoonas-160015314/)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/jeagerb00b)
+
+</div>
+
+---
+
+```
+root@github:~$ cat about.txt
+```
+
+> 🤖 Robotics enthusiast from Kerala, India — passionate about autonomous systems, ground vehicles, and making robots that actually work.
+
+---
+
+```
+root@github:~$ ls skills/
+```
+
+**Core Stack**
+
+![ROS2](https://img.shields.io/badge/ROS_2-0A0A0A?style=flat-square&logo=ros&logoColor=00ff41)
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=00ff41)
+![C](https://img.shields.io/badge/C-0A0A0A?style=flat-square&logo=c&logoColor=00ff41)
+![Gazebo](https://img.shields.io/badge/Gazebo-0A0A0A?style=flat-square&logoColor=00ff41)
+
+**Design & Simulation**
+
+![SolidWorks](https://img.shields.io/badge/SolidWorks-0A0A0A?style=flat-square&logoColor=00ff41)
+![Fusion360](https://img.shields.io/badge/Fusion_360-0A0A0A?style=flat-square&logo=autodesk&logoColor=00ff41)
+![After Effects](https://img.shields.io/badge/After_Effects-0A0A0A?style=flat-square&logo=adobeaftereffects&logoColor=00ff41)
+![ANSYS](https://img.shields.io/badge/ANSYS_(basics)-0A0A0A?style=flat-square&logoColor=00ff41)
+
+**Learning**
+
+![C++](https://img.shields.io/badge/C++_(basics)-0A0A0A?style=flat-square&logo=cplusplus&logoColor=aaffcc)
+![Java](https://img.shields.io/badge/Java_(basics)-0A0A0A?style=flat-square&logo=java&logoColor=aaffcc)
+
+---
+
+```
+root@github:~$ cat current_mission.log
+```
+
+```
+>> Building an autonomous UGV with obstacle avoidance
+>> Designing 6-state state machine logic in ROS 2 + Gazebo
+>> Sector-based LiDAR perception system
+>> Internship @ Onepool Pvt Ltd [ACTIVE]
+```
+
+---
+
+```
+root@github:~$ cat interests.txt
+```
+
+| SYSTEM        | STATUS   | DESCRIPTION                        |
+|---------------|----------|------------------------------------|
+| Robotics      | ONLINE ✓ | Autonomous systems & UGV design    |
+| Control Sys   | ONLINE ✓ | State machines & navigation logic  |
+| CAD/Sim       | ONLINE ✓ | SolidWorks, Fusion, ANSYS          |
+| Motion Design | ONLINE ✓ | After Effects & visual storytelling|
+
+---
+
+<div align="center">
+
+```
+> STATUS: ONLINE | LOCATION: KERALA, IN | MODE: LEARNING_
+```
+
+</div>
