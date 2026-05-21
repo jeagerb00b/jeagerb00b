@@ -42,6 +42,7 @@ root@github:~$ ls skills/
 ![ROS2](https://img.shields.io/badge/ROS_2-0A0A0A?style=flat-square&logo=ros&logoColor=00ff41)
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=00ff41)
 ![C](https://img.shields.io/badge/C-0A0A0A?style=flat-square&logo=c&logoColor=00ff41)
+![C++](https://img.shields.io/badge/C++_(basics)-0A0A0A?style=flat-square&logo=cplusplus&logoColor=aaffcc)
 ![Gazebo](https://img.shields.io/badge/Gazebo-0A0A0A?style=flat-square&logoColor=00ff41)
 
 **Design & Simulation**
@@ -53,7 +54,6 @@ root@github:~$ ls skills/
 
 **Learning**
 
-![C++](https://img.shields.io/badge/C++_(basics)-0A0A0A?style=flat-square&logo=cplusplus&logoColor=aaffcc)
 ![Java](https://img.shields.io/badge/Java_(basics)-0A0A0A?style=flat-square&logo=java&logoColor=aaffcc)
 
 ---
